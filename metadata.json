@@ -1,0 +1,6 @@
+{
+  "name": "横浜旅行しおり",
+  "description": "HTMLとJavaScriptのみで完結動作する横浜旅行（7月30日〜8月1日）のインタラクティブタイムラインとしおり。遅延補正・カウントダウン・手動入力対応。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
